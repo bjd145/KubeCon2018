@@ -1,6 +1,6 @@
 # Getting the Most out of Kubernetes - Optimizing Cluster Resoure Allocation in Prod
 * @hjharnis - Staff Engineer @ Zeit
-    * Slides on github  - https://github.com/hharnisc/hharnisc.github.io
+    * Slides on github  - https://hharnisc.github.io/2018/12/11/getting-the-most-out-of-kubernetes.html#1
     * https://github.com/hharnisc/kubernetes-resource-optimization-demo
 * Understand Requests and Limits 
 * Buffer - social management software 
