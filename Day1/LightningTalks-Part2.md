@@ -63,3 +63,4 @@
 
 # Humans and AI 
 * Kendall Miller
+* @blatantterror 
