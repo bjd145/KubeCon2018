@@ -16,3 +16,6 @@
 * Envoy can be run outside Kubernetes. It's just a binary 
     * More people run it outside K8S then inside K8S
     * Istio is just a wrapper for Envoy 
+* Envoy can be configured with things like retries values
+    * Can be overwritten on a per request header 
+* No one should try to behiding things like retries from the developer - just the implementation of how to do retries 
