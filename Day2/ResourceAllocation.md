@@ -1,5 +1,7 @@
 # Getting the Most out of Kubernetes - Optimizing Cluster Resoure Allocation in Prod
-* @hjharnis - Staff Engineer @ Zeit 
+* @hjharnis - Staff Engineer @ Zeit
+    * Slides on github  - https://github.com/hharnisc/hharnisc.github.io
+    * https://github.com/hharnisc/kubernetes-resource-optimization-demo
 * Understand Requests and Limits 
 * Buffer - social management software 
     * Simple Node application with Dynamodb backend 
@@ -45,3 +47,14 @@
 * loader.io
 * kubescope - https://github.com/hharnisc/kubescope-cli
 * Don't forget about k edit deployment - instead of always editing your yaml . Quick and Dirty 
+* Keep a fail log 
+    * memory is slowly increasing 
+    * CPU pegged at 100%
+    * 500s
+    * High response time 
+    * Dropping requests 
+    * Queuing 
+* Breakfix testing 
+* Horizontal Pod Autoscaler - Change Deployment replica count based on a metric (scale up or down)
+* Vertical Pod Autoscaler (Alpha) - Change Pod resource requests in place and restart the pod 
+* Datadog 
