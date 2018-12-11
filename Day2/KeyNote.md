@@ -118,8 +118,9 @@
 ## Phippy Goes to the Zoo
 * Karen Chu and Matt Butcher @ Microsoft 
 * Kids book on Kubernetes 
-* pdf downloadble 
-
+* Donated to CNCF.  Books and characters are now Creative Commons
+* store.cncf.io or at the store 
+* #PHIPPY 
 
 # Vendors/Tools to Research 
 * Rook.io - Storage
