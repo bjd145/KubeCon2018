@@ -121,15 +121,3 @@
 * Donated to CNCF.  Books and characters are now Creative Commons
 * store.cncf.io or at the store 
 * #PHIPPY 
-
-# Vendors/Tools to Research 
-* Rook.io - Storage
-* Envoy - Ingress Controlles
-* Traffik - Ingress Controllers
-* Rancher - Multi-cloud / Managed clusters
-* nirmata - Multi-cloud / Managed clusters
-* Heptio - Multi-cloud / Managed Provider 
-* Twistlock - Security  
-* Knative 
-* Open Policy Agent
-* Advance Grafana / Prometheus 

@@ -22,7 +22,8 @@
 * QOS: Guaranteed - Highest Priority 
 * QOS: Burstble 
 * QOS: Best Effort. Lowest Priority 
-* Optimal*Limits 
+* Optimal
+  * *Limits 
     * Pods have enough resources to complete their task 
     * Nodes run maximum number of pods
 * Way to Get these Wrong 

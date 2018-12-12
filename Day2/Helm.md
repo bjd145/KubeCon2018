@@ -53,4 +53,3 @@
 * Helm V3
     * breaking changes from lessons learned 
     * will carry almost everyone forward 
-    * 
