@@ -15,7 +15,7 @@
 # Take Aways
 * Eventual Consistency - friend or foe 
 * Unified Observabilty 
-* 
+* Protection - use the service mesh to de-risk your k8s migration 
 
 # Observation 
 * Startups encounter the same problems with legacy as most enterprise 
@@ -31,4 +31,3 @@
   * Envoy-based Ingress controller deployed as a reverse proxy and load balancer 
 * https://github.com/helm/charts/tree/master/stable/envoy
 * https://akomljen.com/kubernetes-contour-ingress-controller-for-envoy-proxy/
-* 
