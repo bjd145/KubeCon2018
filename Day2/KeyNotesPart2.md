@@ -1,5 +1,5 @@
 # Run Kubernets in Production When You Don't know What You Don't Know 
-* Understand the theory of the software you are using 
+* Understand the design of the software you are using 
 * Run gamedays / breakfix tests 
     * Try in QA and some in production 
     * Things like destory your API server, destory etcd cluster ....   
@@ -18,3 +18,8 @@
     * Reduce Cognitive load for them 
     * github.com/stripe/skycfg ... skycfg.fun 
 * Always have a rollback plan 
+* Culture 
+    * You don't have to be an expert at the beginning but you need to become one 
+    * build an engine of learning 
+    * building that expertise takes time! 
+    * Managers - make space for your team to learn 
