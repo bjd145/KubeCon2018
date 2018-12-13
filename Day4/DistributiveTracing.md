@@ -50,7 +50,8 @@
     * https://medium.com/jaegertracing/using-opentracing-with-istio-envoy-d8a4246bdc15
     * https://istio.io/docs/tasks/telemetry/distributed-tracing/
     * https://github.com/yantang-msft/kubernetes-sidecar-diagnostics
-  * 
+    * https://docs.microsoft.com/en-us/azure/azure-monitor/insights/containers
+  
 ## Azure Tools 
 * Prometheus <<>> Azure Container Monitor / LogAnalytics 
 * Jaeger <<>> Application Insights 
