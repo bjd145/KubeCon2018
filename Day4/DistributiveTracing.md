@@ -52,7 +52,3 @@
     * https://github.com/yantang-msft/kubernetes-sidecar-diagnostics
     * https://docs.microsoft.com/en-us/azure/azure-monitor/insights/containers
   
-## Azure Tools 
-* Prometheus <<>> Azure Container Monitor / LogAnalytics 
-* Jaeger <<>> Application Insights 
-* Grafana <<>> PowerBi 
