@@ -3,7 +3,7 @@
 * Many people in the room with 1000+ nodes 
 * Why are clusters << 5000 nodes running into scale issues 
 * Scalabilty is not a single number 
-  * # Nodes is a proxy for 'scale'
+  * #Nodes is a proxy for 'scale'
   * 'Support' up to 5000 nodes 
 * Scalability is a subspace of configurations 
   * think of it as a cube - higher dimensional 

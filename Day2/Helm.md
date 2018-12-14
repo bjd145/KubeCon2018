@@ -4,13 +4,15 @@
 * package manager - an easy way to share, consume, and manage applications defined by K8S resources  
 * Helm v2 - released in 2016
 * Helm v3 - coming soon 
-* ----------------------
-* | Helm               |
-* |--------------------|
-* | Images|K8S Objects |
-* ----------------------
-* | Kubernetes         |
-* ----------------------
+```
+----------------------
+| Helm               |
+|--------------------|
+| Images|K8S Objects |
+----------------------
+| Kubernetes         |
+----------------------
+```
 * Wordpress Helm chart - creates 13 K8S object 
     * helm install stable/wordpress --set wordpressBlogname="Hi cloudNativecon"
     * Wordpress Cart depends upon Mariadb chart
